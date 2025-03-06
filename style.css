@@ -1,0 +1,13 @@
+*{
+    text-align: center;
+}
+
+span{
+    background-color: orange;
+    color: black;
+    font-weight: 700;
+}
+
+span:hover{
+    font-size: 64px
+}
